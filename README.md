@@ -16,4 +16,5 @@ Extract from archive "FILISPEEN.AMONGUS" folder and drop it to mods folder("%Use
 
 :: CREDITS ::
 ♦ MOD, SOUND MAKER -- FILISPEEN (FLSPR UA-IND.)
+
 ♦ MODEL MAKER -- Maxtoblenter(https://sketchfab.com/Maxtoblenter)
